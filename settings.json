@@ -1,0 +1,67 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "explorer.compactFolders": false,
+    "workbench.colorTheme": "Dracula Theme",
+    "workbench.sideBar.location": "right",
+    "debug.console.fontFamily": "Fira Code Retina",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 13,
+    "editor.fontLigatures": true,
+    "editor.tabSize": 4,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.suggestSelection": "first",
+    "editor.occurrencesHighlight": "off",
+    "editor.selectionHighlight": false,
+    "editor.guides.bracketPairs": "active",
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "tabnine.experimentalAutoImports": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "javascript.preferences.quoteStyle": "single",
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "typescript.preferences.quoteStyle": "single",
+    "typescript.inlayHints.parameterNames.enabled": "all",
+    "files.associations": {
+        "*.html": "html"
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "[go]": {
+        "editor.defaultFormatter": "golang.go"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+}
